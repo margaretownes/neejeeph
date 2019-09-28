@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oliegosho.zetazot.com/sitemap.xml
